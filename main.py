@@ -1,4 +1,4 @@
-from selenium import webdriver
+from time import sleep
 import getpass
 from selenium import webdriver
 from webdriver.manager.chrome import ChromeDriverManager
